@@ -216,6 +216,7 @@ strong,
 b {
   font-family: "Lora", serif;
   font-weight: 700;
+  color: #cf1767;
 }
 
 small {
@@ -392,7 +393,7 @@ ul.disc li::before {
 
 dt {
   margin: 0;
-  color: #cf1767;
+  color: rgb(255, 255, 255);
 }
 
 dd {
